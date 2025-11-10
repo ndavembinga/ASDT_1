@@ -1,5 +1,5 @@
 **Full name**:Nyashadzashe Pongolani\
-**Country**: Zimbabwe\
+**Country**: Zimbabwe **Africa**\
 **IT interests**: UI | UX Designing\
-**Preferred programming languages**:CSS , HTML ,C++, JAVASCRIPT\
-**FunFact**: I love ~~dogs~~ cats :)
+**Preferred programming languages**:CSS , HTML ,C++, JAVASCRIPT and more\
+**FunFact**: I love dogs and cats :)
